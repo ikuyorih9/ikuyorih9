@@ -10,7 +10,7 @@ Also, scrolling down you may know a little about me: my programming skills, back
 
 ---
 
-## Programming languages and stats 💻🤓
+## 💻 Programming languages and stats
 
 <table align="center" style="border: none;">
   <tr>
@@ -29,6 +29,25 @@ Also, scrolling down you may know a little about me: my programming skills, back
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuyorih9&layout=donut-vertical&bg_color=00000000&custom_title=Languages&text_color=ffffff&title_color=ffffff&border_radius=10&hide_border=true&"></td>
   </tr>
 </table>
+
+<p align="center">
+  <img width=500 height=150 src="Images/hackerman.gif">
+</p>
+
+## 🗓️ Background 
+
+### Electronic High School (2018 - 2020)
+
+<img align="right" width=125 heigth=125 src="Images/Image - ifam logo (white).png" style="border-radius:15px;margin-left:10px;">
+
+I'm graduated at **Federal Institute of Amazonas (IFAM)** with a **technical diploma in Electronics** at the secondary education level. It means I have knowledge enough to understand and manipulate electronic circuits with both passive and active components.
+
+
+### Engineering Computation (2021 - now)
+
+<img align="right" width=125 heigth=125 src="Images/Image - USP logo.png" style="border-radius:15px;margin-left:10px;">
+
+Soon after graduated in high school, I got in **University of São Paulo (USP)**, cursing **Engineering Computation**. I've been improving my electronic and programming knowledge by developing projects in both areas.
 
 
 
