@@ -4,8 +4,8 @@
 
 Also, scrolling down you may know a little about me: my programming skills, background and incoming projects.
 
-<div style="text-align: center;font-size: 20px">
-  Enjoy!
-</div>
+<p align="center">
+    <img src="Images/cat.gif" width=500 height=150>
+</p>
 
 ---
