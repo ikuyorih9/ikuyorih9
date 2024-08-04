@@ -12,17 +12,11 @@ Also, scrolling down you may know a little about me: my programming skills, back
 
 ## Programming skills 💻🤓
 
-<div style="display:flex;flex-direction:row">
-    <div style="display:flex;flex-direction:column">
-        <p>Just fell in love for C and Java programming languages </p>
-        <div>
-            <p align="center">
-                <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-                <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-            </p>
-        </div>
-    </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuyorih9&layout=donut-vertical&bg_color=00000000&custom_title=Languages&text_color=ffffff&title_color=ffffff&border_radius=10&hide_border=true&">
+<div>
+    <p>Just fell in love for C and Java programming languages!</p>
+    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuyorih9&layout=donut-vertical&bg_color=00000000&custom_title=Languages&text_color=ffffff&title_color=ffffff&border_radius=10&hide_border=true&">
 </div>
 
 <p align="center">
