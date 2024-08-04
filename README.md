@@ -12,8 +12,8 @@ Also, scrolling down you may know a little about me: my programming skills, back
 
 ## Programming skills 💻🤓
 
-<div>
-    <div>
+<div style="display:flex;flex-direction:row">
+    <div style="display:flex;flex-direction:column">
         <p>Just fell in love for C and Java programming languages </p>
         <div>
             <p align="center">
