@@ -42,6 +42,11 @@ Also, scrolling down you may know a little about me: my programming skills, back
 
 I'm graduated at **Federal Institute of Amazonas (IFAM)** with a **technical diploma in Electronics** at the secondary education level. It means I have knowledge enough to understand and manipulate electronic circuits with both passive and active components.
 
+📋 **Notable project:** *Appeteats (2021)* - a pet feeder machine.
+💡 **Knowledge and skills:** 
+* basics of digital and analog electronics;
+* concepts of embeded systems;
+* use of arduino develpment board and its C++ based language;
 
 ### Engineering Computation (2021 - now)
 
@@ -49,6 +54,19 @@ I'm graduated at **Federal Institute of Amazonas (IFAM)** with a **technical dip
 
 Soon after graduated in high school, I got in **University of São Paulo (USP)**, cursing **Engineering Computation**. I've been improving my electronic and programming knowledge by developing projects in both areas.
 
+📋 **Notable project:** *Faltei (2023)* - grade and frequency keeper.
+💡 **Knowledge and skills:** 
+* Java, Assembly, HTML, Typescript, Javascript programming languages;
+* use of PIC and 8051 microcontrollers;
+* basics of Altera's develpment boards with FPGA chips.
 
 
+## 📋 My projects (or some I participated in)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Faltei)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=LiveChat)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Sim.Camada.Enlace)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=Whisper.Driver)](https://github.com/anuraghazra/github-readme-stats)
