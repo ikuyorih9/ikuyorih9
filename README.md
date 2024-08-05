@@ -36,7 +36,7 @@ Also, scrolling down you may know a little about me: my programming skills, back
 
 ## 🗓️ Background 
 
-### Electronic High School (2018 - 2020)
+### 🏫 Electronic High School (2018 - 2020)
 
 <img align="right" width=125 heigth=125 src="Images/Image - ifam logo (white).png" style="border-radius:15px;margin-left:10px;">
 
@@ -48,7 +48,7 @@ I'm graduated at **Federal Institute of Amazonas (IFAM)** with a **technical dip
 * concepts of embeded systems;
 * use of arduino develpment board and its C++ based language;
 
-### Engineering Computation (2021 - now)
+### 🧑‍💻 Engineering Computation (2021 - now)
 
 <img align="right" width=125 heigth=125 src="Images/Image - USP logo.png" style="border-radius:15px;margin-left:10px;">
 
@@ -61,14 +61,18 @@ Soon after graduated in high school, I got in **University of São Paulo (USP)**
 * basics of Altera's develpment boards with FPGA chips.
 
 
-## 📋 My projects (or some I participated in)
+## 📋 My projects (or one I participated in)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Faltei&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=LiveChat&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
+  <a href="https://github.com/ikuyorih9/Faltei"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Faltei&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed"></a>
+  <a href="https://github.com/ISS2718/LiveChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=LiveChat&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Sim.Camada.Enlace&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=Whisper.Driver&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
+  <a href="https://github.com/ikuyorih9/Sim.Camada.Enlace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Sim.Camada.Enlace&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed"></a>
+  <a href="https://github.com/ISS2718/Whisper.Driver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=Whisper.Driver&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
 </div>
+
+<p align="center">
+  <img width=500 height=150 src="Images/programer.gif">
+</p>
