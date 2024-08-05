@@ -63,10 +63,12 @@ Soon after graduated in high school, I got in **University of São Paulo (USP)**
 
 ## 📋 My projects (or some I participated in)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Faltei)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Faltei&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=LiveChat&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=LiveChat)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Sim.Camada.Enlace)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=Whisper.Driver)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikuyorih9&repo=Sim.Camada.Enlace&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISS2718&repo=Whisper.Driver&title_color=fff&bg_color=00000000&border_color=ac2bed&text_color=fff&icon_color=ac2bed">
+</div>
